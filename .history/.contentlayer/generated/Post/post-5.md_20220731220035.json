@@ -1,0 +1,20 @@
+{
+  "title": "Starting my AWS journey, welcome to the data management!",
+  "date": "Aug, 2022",
+  "body": {
+    "raw": "\n## My Headline\n",
+    "html": "<h2>My Headline</h2>"
+  },
+  "_id": "post-5.md",
+  "_raw": {
+    "sourceFilePath": "post-5.md",
+    "sourceFileName": "post-5.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "post-5"
+  },
+  "description":"",
+  "readTime":"",
+  "type": "Post",
+  "slug": "post-5"
+}

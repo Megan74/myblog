@@ -1,0 +1,15 @@
+{
+  "title": "My journey as a Web developer",
+  "date": "Jul 10, 2022",
+  "description": "",
+  "_id": "post-1.md",
+  "_raw": {
+    "sourceFilePath": "post-1.md",
+    "sourceFileName": "post-1.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "post-1"
+  },
+  "type": "Post",
+  "slug": "post-1"
+}
