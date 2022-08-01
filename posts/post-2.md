@@ -1,5 +1,7 @@
 ---
-  title: 'Debgihjgh-ing ❌ .. debugh-ing❌ .. debugging ✅'
+   title: 'Debgihjgh-ing ❌ .. debugh-ing❌ .. debugging ✅'
+
+   date: 'Aug, 2022'
 --- 
 As a software engineer, aknowledging that the debugging part is an unavoidable part in your career, helped to lift the pressure and remove frustration.
 
