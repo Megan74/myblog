@@ -2,8 +2,8 @@
   "title": "Starting my AWS journey, welcome to the data management!",
   "date": "Aug, 2022",
   "body": {
-    "raw": "\n## My Headline\n",
-    "html": "<h2>My Headline</h2>"
+    "raw": "\n## My Headline\n\n  Being familiar with building projects is a huge deal, being able to store, retrieve, delete, update, handle datas, is another level\n",
+    "html": "<h2>My Headline</h2>\n<p>Being familiar with building projects is a huge deal, being able to store, retrieve, delete, update, handle datas, is another level</p>"
   },
   "_id": "post-5.md",
   "_raw": {
@@ -13,8 +13,6 @@
     "contentType": "markdown",
     "flattenedPath": "post-5"
   },
-  "description":"",
-  "readTime":"",
   "type": "Post",
   "slug": "post-5"
 }

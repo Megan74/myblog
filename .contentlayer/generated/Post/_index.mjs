@@ -4,5 +4,6 @@ import post_1Md from './post-1.md.json' assert { type: 'json' }
 import post_2Md from './post-2.md.json' assert { type: 'json' }
 import post_4Md from './post-4.md.json' assert { type: 'json' }
 import post_5Md from './post-5.md.json' assert { type: 'json' }
+import post_3Md from './post-3.md.json' assert { type: 'json' }
 
-export const allPosts = [post_1Md, post_2Md, post_4Md, post_5Md]
+export const allPosts = [post_1Md, post_2Md, post_4Md, post_5Md, post_3Md]

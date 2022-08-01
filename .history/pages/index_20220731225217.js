@@ -1,0 +1,36 @@
+import Link from 'next/link'
+import Head from 'next/head'
+import { allPosts } from 'contentlayer/generated'
+import { pick } from '@contentlayer/client'
+import Layout from '../components/Layout'
+
+export default function Home({ posts }) {
+  return (
+    <>
+      <Head>
+        <title>Home</title>
+      </Head>
+
+        <Layout>
+        <h2>Blog</h2>
+       
+          {posts.map(({ slug, date, title }) => (
+            <section key={slug}>
+              <Link href={`/posts/${slug}`}>
+                <a>{title}</a>
+              </Link>
+              <br />
+              <small>{date}</small>
+            </section>
+          ))}
+        
+        </Layout>
+    </>
+  )
+}
+
+export async function getStaticProps() {
+  const posts = allPosts.map((post) => pick(post, ['title', 'date', 'slug']))
+
+  return { props: { posts } }
+}
