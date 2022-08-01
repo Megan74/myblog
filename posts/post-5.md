@@ -7,4 +7,4 @@
 
 ## My Headline
 
-  Being familiar with building projects is a huge deal, being able to store, retrieve, delete, update, handle datas, is another level
+  Being familiar with building projects is a huge deal, being able to store, retrieve, delete, update, handle datas, is on an another level
